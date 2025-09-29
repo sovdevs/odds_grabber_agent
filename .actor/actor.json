@@ -1,0 +1,9 @@
+{
+  "actorSpecification": 1,
+  "name": "odds-grabber-actor",
+  "title": "Odds Grabber Actor",
+  "description": "Minimal test actor written in Python",
+  "version": "0.1",
+  "buildTag": "latest",
+  "entrypoint": "python3 -m src.main"
+}
