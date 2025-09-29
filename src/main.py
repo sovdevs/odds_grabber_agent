@@ -1,6 +1,7 @@
-# OddsGrabber.py
+# main.py
 
 import requests
+import logging
 from lxml import html
 import re
 import random
@@ -8,13 +9,16 @@ from apify import Actor
 from apify_client import ApifyClient
 import logging
 from apify import Actor
+from datetime import datetime, date
 
-# Use Actor.log — it auto-fallbacks to standard logging when not on Apify platform
-logger = Actor.log if hasattr(Actor, 'log') else logging.getLogger(__name__)
-if not logger.handlers:
-    logging.basicConfig(level=logging.INFO)
-# Optional: if you want to log, use Actor.log
-# (no need for external logger setup on Apify)
+# Configure local logging
+file_handler = logging.FileHandler("odds_grabber.log", mode="a", encoding="utf-8")
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+file_handler.setFormatter(formatter)
+
+local_logger = logging.getLogger("OddsGrabberLocal")
+local_logger.setLevel(logging.INFO)
+local_logger.addHandler(file_handler)
 
 def random_headers():
     return {"User-Agent": random.choice([
@@ -108,7 +112,17 @@ async def main():
             Actor.log.info(f"Processing race: {race_url}")
             data = scrape_race_odds(session, race_url)
             for item in data:
-                logger.debug(f"Pushing item: {item}")
+                item["timestamp"] = datetime.utcnow().isoformat()
+                local_logger.debug(f"Pushing item: {item}")
                 await Actor.push_data(item)
+
+                # Save meaningful JSON file in KV store
+                filename = f"{date.today().isoformat()}_{item['race_id']}_{item['horse_id']}.json"
+                await Actor.set_value(filename, item)
+
+                # Also log locally
+                local_logger.info(f"{race_url} -> {item}")
+
+
 
         Actor.log.info("All odds data pushed to dataset.")

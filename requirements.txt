@@ -1,3 +1,2 @@
-apify-sdk==1.10.0
 requests
 lxml
