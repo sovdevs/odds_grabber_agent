@@ -1,3 +1,4 @@
+# __main__.py
 import asyncio
 
 from .main import main

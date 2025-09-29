@@ -100,6 +100,10 @@ async def main():
     async with Actor:
         Actor.log.info("Starting OddsGrabber actor...")
 
+        # Get Actor input (from Apify UI or schedule)
+        actor_input = await Actor.get_input()
+        print("Actor started, input:", actor_input, flush=True)
+
         # You can optionally accept input like date, but for now hardcode today
         racecard_url = "https://www.racingpost.com/racecards/"
 

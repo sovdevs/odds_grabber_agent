@@ -1,0 +1,3504 @@
+[{
+  "race_id": "904640",
+  "horse_id": "7503728",
+  "horse_name": "final-melody",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:26.934897"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7657458",
+  "horse_name": "imnotleavinyou",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:27.141401"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7441081",
+  "horse_name": "love-bomb",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:27.238324"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7395223",
+  "horse_name": "award-ceremony",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:27.347413"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7708572",
+  "horse_name": "spicetown",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:27.496261"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7365407",
+  "horse_name": "star-reign",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:27.790989"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7691583",
+  "horse_name": "the-love-machine",
+  "fodds": "9/1",
+  "opDec": 10,
+  "timestamp": "2025-09-29T10:01:27.902877"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7499448",
+  "horse_name": "believe-in-glory",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:27.979242"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7493134",
+  "horse_name": "prairie-echoes",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:28.070961"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7597340",
+  "horse_name": "gelato",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:28.200512"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7816050",
+  "horse_name": "another-niceday",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:28.366602"
+},
+{
+  "race_id": "904640",
+  "horse_id": "7618338",
+  "horse_name": "hooves-your-daddy",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:28.467932"
+},
+{
+  "race_id": "904641",
+  "horse_id": "5764619",
+  "horse_name": "billie-frechette",
+  "fodds": "5/2",
+  "opDec": 3.5,
+  "timestamp": "2025-09-29T10:01:29.841055"
+},
+{
+  "race_id": "904641",
+  "horse_id": "6582559",
+  "horse_name": "alba-chiara",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:01:30.050526"
+},
+{
+  "race_id": "904641",
+  "horse_id": "6692965",
+  "horse_name": "fortuna-vera",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:30.142035"
+},
+{
+  "race_id": "904641",
+  "horse_id": "5147922",
+  "horse_name": "mo-ghille-mar",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:01:30.260943"
+},
+{
+  "race_id": "904641",
+  "horse_id": "7457874",
+  "horse_name": "navy-waters",
+  "fodds": "15/2",
+  "opDec": 8.5,
+  "timestamp": "2025-09-29T10:01:30.425841"
+},
+{
+  "race_id": "904641",
+  "horse_id": "5218328",
+  "horse_name": "riviera-queen",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:30.515246"
+},
+{
+  "race_id": "904641",
+  "horse_id": "2620816",
+  "horse_name": "no-niki-no",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:30.643077"
+},
+{
+  "race_id": "904641",
+  "horse_id": "6037328",
+  "horse_name": "sissi",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:30.736828"
+},
+{
+  "race_id": "904641",
+  "horse_id": "5571417",
+  "horse_name": "master-sydney",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:30.848057"
+},
+{
+  "race_id": "904641",
+  "horse_id": "5218291",
+  "horse_name": "pearl-jewel",
+  "fodds": "22/1",
+  "opDec": 23,
+  "timestamp": "2025-09-29T10:01:31.065797"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7834647",
+  "horse_name": "running-point",
+  "fodds": "2/1",
+  "opDec": 3,
+  "timestamp": "2025-09-29T10:01:32.594665"
+},
+{
+  "race_id": "904642",
+  "horse_id": "8048368",
+  "horse_name": "stars-will-shine",
+  "fodds": "9/4",
+  "opDec": 3.25,
+  "timestamp": "2025-09-29T10:01:32.714495"
+},
+{
+  "race_id": "904642",
+  "horse_id": "8179375",
+  "horse_name": "kilmac-air",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:32.792203"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7436314",
+  "horse_name": "idiocracy",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:32.895792"
+},
+{
+  "race_id": "904642",
+  "horse_id": "8179373",
+  "horse_name": "aquilla-star",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:32.977071"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7601608",
+  "horse_name": "celestial-siren",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:33.074619"
+},
+{
+  "race_id": "904642",
+  "horse_id": "8179372",
+  "horse_name": "apiary",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:33.263776"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7657464",
+  "horse_name": "tharaka",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:33.447131"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7691580",
+  "horse_name": "matilda-joslyngage",
+  "fodds": "22/1",
+  "opDec": 23,
+  "timestamp": "2025-09-29T10:01:33.586428"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7735691",
+  "horse_name": "fortuity",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:33.703008"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7935085",
+  "horse_name": "saxon-grace",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:33.804800"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7961715",
+  "horse_name": "stonyfalls",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:01:33.955746"
+},
+{
+  "race_id": "904642",
+  "horse_id": "7856880",
+  "horse_name": "grey-intentions",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:01:34.027433"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7298732",
+  "horse_name": "diego-el-queso",
+  "fodds": "15/8",
+  "opDec": 2.88,
+  "timestamp": "2025-09-29T10:01:34.789835"
+},
+{
+  "race_id": "904643",
+  "horse_id": "6111570",
+  "horse_name": "smiling",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:01:35.029632"
+},
+{
+  "race_id": "904643",
+  "horse_id": "6465133",
+  "horse_name": "perfect-base",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:35.132277"
+},
+{
+  "race_id": "904643",
+  "horse_id": "8179378",
+  "horse_name": "the-corporate-guy",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:35.251653"
+},
+{
+  "race_id": "904643",
+  "horse_id": "6265711",
+  "horse_name": "chester-nimitz",
+  "fodds": "9/1",
+  "opDec": 10,
+  "timestamp": "2025-09-29T10:01:35.388749"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7930875",
+  "horse_name": "kakori",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:35.488069"
+},
+{
+  "race_id": "904643",
+  "horse_id": "8058128",
+  "horse_name": "tokyo-treasure",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:35.580972"
+},
+{
+  "race_id": "904643",
+  "horse_id": "8018233",
+  "horse_name": "millraceflow",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:35.657875"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7966374",
+  "horse_name": "obscenity",
+  "fodds": "22/1",
+  "opDec": 23,
+  "timestamp": "2025-09-29T10:01:35.780455"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7983182",
+  "horse_name": "tour-guide-tom",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:36.055873"
+},
+{
+  "race_id": "904643",
+  "horse_id": "8179377",
+  "horse_name": "miqdaar",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:36.183117"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7935097",
+  "horse_name": "drumaugh-boy",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:36.274753"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7996932",
+  "horse_name": "monastere",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:36.400203"
+},
+{
+  "race_id": "904643",
+  "horse_id": "7834665",
+  "horse_name": "shesthekingsmaid",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:36.474257"
+},
+{
+  "race_id": "904644",
+  "horse_id": "4992666",
+  "horse_name": "port-louis",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:01:37.226684"
+},
+{
+  "race_id": "904644",
+  "horse_id": "7713419",
+  "horse_name": "eichan-san",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:01:37.308020"
+},
+{
+  "race_id": "904644",
+  "horse_id": "6350097",
+  "horse_name": "shelbourne-flyer",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:37.455856"
+},
+{
+  "race_id": "904644",
+  "horse_id": "7789355",
+  "horse_name": "burford-beauty",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:01:37.555903"
+},
+{
+  "race_id": "904644",
+  "horse_id": "5102049",
+  "horse_name": "hot-to-foxtrot",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:01:37.644507"
+},
+{
+  "race_id": "904644",
+  "horse_id": "6260990",
+  "horse_name": "bishopton",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:01:37.762407"
+},
+{
+  "race_id": "904644",
+  "horse_id": "4299525",
+  "horse_name": "distillate",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:01:37.880293"
+},
+{
+  "race_id": "904644",
+  "horse_id": "6327896",
+  "horse_name": "sister-lily",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:01:37.991557"
+},
+{
+  "race_id": "904644",
+  "horse_id": "1870937",
+  "horse_name": "brains",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:38.074972"
+},
+{
+  "race_id": "904644",
+  "horse_id": "2617645",
+  "horse_name": "sunday-sovereign",
+  "fodds": "22/1",
+  "opDec": 23,
+  "timestamp": "2025-09-29T10:01:38.156403"
+},
+{
+  "race_id": "904644",
+  "horse_id": "5248393",
+  "horse_name": "moyassr",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:38.238402"
+},
+{
+  "race_id": "904644",
+  "horse_id": "5708801",
+  "horse_name": "toy-soldier",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:38.329891"
+},
+{
+  "race_id": "904644",
+  "horse_id": "4686964",
+  "horse_name": "lough-leane",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:38.440266"
+},
+{
+  "race_id": "904644",
+  "horse_id": "5829363",
+  "horse_name": "perry-mason",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:01:38.586403"
+},
+{
+  "race_id": "904645",
+  "horse_id": "4612984",
+  "horse_name": "lunar-landscape",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:01:39.163151"
+},
+{
+  "race_id": "904645",
+  "horse_id": "5933560",
+  "horse_name": "searcog",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:01:39.291193"
+},
+{
+  "race_id": "904645",
+  "horse_id": "6362960",
+  "horse_name": "faro-island",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:01:39.408616"
+},
+{
+  "race_id": "904645",
+  "horse_id": "4377602",
+  "horse_name": "secret-rock",
+  "fodds": "15/2",
+  "opDec": 8.5,
+  "timestamp": "2025-09-29T10:01:39.491085"
+},
+{
+  "race_id": "904645",
+  "horse_id": "5982399",
+  "horse_name": "churchill-gale",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:39.585556"
+},
+{
+  "race_id": "904645",
+  "horse_id": "3780008",
+  "horse_name": "thegooseiscooked",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:39.656789"
+},
+{
+  "race_id": "904645",
+  "horse_id": "3229606",
+  "horse_name": "smaoineamh-sile",
+  "fodds": "17/2",
+  "opDec": 9.5,
+  "timestamp": "2025-09-29T10:01:39.850388"
+},
+{
+  "race_id": "904645",
+  "horse_id": "6314175",
+  "horse_name": "milverton",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:39.974130"
+},
+{
+  "race_id": "904645",
+  "horse_id": "5964381",
+  "horse_name": "my-vonnie",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:40.125316"
+},
+{
+  "race_id": "904645",
+  "horse_id": "3207181",
+  "horse_name": "ghumama",
+  "fodds": "28/1",
+  "opDec": 29,
+  "timestamp": "2025-09-29T10:01:40.259102"
+},
+{
+  "race_id": "904645",
+  "horse_id": "4743373",
+  "horse_name": "pretty-soldier",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:01:40.372120"
+},
+{
+  "race_id": "904645",
+  "horse_id": "5490597",
+  "horse_name": "prom-queen",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:01:40.465260"
+},
+{
+  "race_id": "904645",
+  "horse_id": "7462321",
+  "horse_name": "diamond-cross",
+  "fodds": "50/1",
+  "opDec": 51,
+  "timestamp": "2025-09-29T10:01:40.612481"
+},
+{
+  "race_id": "904645",
+  "horse_id": "6429633",
+  "horse_name": "ill-be-handy",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:01:40.716067"
+},
+{
+  "race_id": "904646",
+  "horse_id": "7713416",
+  "horse_name": "railwayview-lady",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:01:41.278823"
+},
+{
+  "race_id": "904646",
+  "horse_id": "7055609",
+  "horse_name": "glenroyal",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:01:41.409112"
+},
+{
+  "race_id": "904646",
+  "horse_id": "5436883",
+  "horse_name": "qamari",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:41.488545"
+},
+{
+  "race_id": "904646",
+  "horse_id": "3152124",
+  "horse_name": "pillar-of-hope",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:41.597029"
+},
+{
+  "race_id": "904646",
+  "horse_id": "5410641",
+  "horse_name": "sir-callisto",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:01:41.689732"
+},
+{
+  "race_id": "904646",
+  "horse_id": "4455458",
+  "horse_name": "doctor-grace",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:01:41.810268"
+},
+{
+  "race_id": "904646",
+  "horse_id": "6107043",
+  "horse_name": "boxing-great",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:41.899887"
+},
+{
+  "race_id": "904646",
+  "horse_id": "5162466",
+  "horse_name": "thyer",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:42.001532"
+},
+{
+  "race_id": "904646",
+  "horse_id": "3181216",
+  "horse_name": "razdan",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:42.082440"
+},
+{
+  "race_id": "904646",
+  "horse_id": "4652646",
+  "horse_name": "morse",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:42.173734"
+},
+{
+  "race_id": "904646",
+  "horse_id": "3098278",
+  "horse_name": "son-of-hypnos",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:42.328017"
+},
+{
+  "race_id": "904646",
+  "horse_id": "7935098",
+  "horse_name": "almenfee",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:42.419384"
+},
+{
+  "race_id": "904646",
+  "horse_id": "6064584",
+  "horse_name": "royal-alliance",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:01:42.527649"
+},
+{
+  "race_id": "904646",
+  "horse_id": "6393214",
+  "horse_name": "goin",
+  "fodds": "50/1",
+  "opDec": 51,
+  "timestamp": "2025-09-29T10:01:42.631905"
+},
+{
+  "race_id": "904632",
+  "horse_id": "5343916",
+  "horse_name": "rakki",
+  "fodds": "7/4",
+  "opDec": 2.75,
+  "timestamp": "2025-09-29T10:01:43.379765"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7431609",
+  "horse_name": "first-ascent",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:01:43.580559"
+},
+{
+  "race_id": "904632",
+  "horse_id": "5809849",
+  "horse_name": "hobart",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:01:43.666531"
+},
+{
+  "race_id": "904632",
+  "horse_id": "5870165",
+  "horse_name": "black-gem",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:43.749546"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7648520",
+  "horse_name": "hopeful-hero",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:43.823422"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7648527",
+  "horse_name": "my-shadow",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:01:43.930532"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7200341",
+  "horse_name": "jacko-star",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:44.049789"
+},
+{
+  "race_id": "904632",
+  "horse_id": "6983752",
+  "horse_name": "certamen",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:44.141623"
+},
+{
+  "race_id": "904632",
+  "horse_id": "5237855",
+  "horse_name": "scottish-reel",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:44.329021"
+},
+{
+  "race_id": "904632",
+  "horse_id": "8144035",
+  "horse_name": "dark-lieutenant",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:44.467830"
+},
+{
+  "race_id": "904632",
+  "horse_id": "5293189",
+  "horse_name": "burlington-house",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:44.563477"
+},
+{
+  "race_id": "904632",
+  "horse_id": "8144039",
+  "horse_name": "grennanstown-lady",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:44.661148"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7339098",
+  "horse_name": "lets-go-mans",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:44.813718"
+},
+{
+  "race_id": "904632",
+  "horse_id": "5809850",
+  "horse_name": "maharajjah",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:44.921063"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7395188",
+  "horse_name": "middlethird-marvel",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:45.004341"
+},
+{
+  "race_id": "904632",
+  "horse_id": "7312295",
+  "horse_name": "notmiwadi",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:45.125903"
+},
+{
+  "race_id": "904633",
+  "horse_id": "4857569",
+  "horse_name": "no-big-deal",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:01:45.982829"
+},
+{
+  "race_id": "904633",
+  "horse_id": "4550211",
+  "horse_name": "spanish-john",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:46.103331"
+},
+{
+  "race_id": "904633",
+  "horse_id": "6604789",
+  "horse_name": "pleasureofpressure",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:01:46.174907"
+},
+{
+  "race_id": "904633",
+  "horse_id": "6666805",
+  "horse_name": "quinn-the-eskimo",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:01:46.330680"
+},
+{
+  "race_id": "904633",
+  "horse_id": "3142164",
+  "horse_name": "stormy-jenn",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:46.470973"
+},
+{
+  "race_id": "904633",
+  "horse_id": "3513373",
+  "horse_name": "arthurs-victory",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:46.573083"
+},
+{
+  "race_id": "904633",
+  "horse_id": "5554967",
+  "horse_name": "im-flattered",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:46.682434"
+},
+{
+  "race_id": "904633",
+  "horse_id": "3301608",
+  "horse_name": "gekkota",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:46.768934"
+},
+{
+  "race_id": "904633",
+  "horse_id": "2176197",
+  "horse_name": "lariat",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:46.858977"
+},
+{
+  "race_id": "904633",
+  "horse_id": "5009831",
+  "horse_name": "backinabit",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:47.026274"
+},
+{
+  "race_id": "904633",
+  "horse_id": "3535299",
+  "horse_name": "uncle-gerhard",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:47.192618"
+},
+{
+  "race_id": "904633",
+  "horse_id": "5388077",
+  "horse_name": "my-mate-tony",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:47.300515"
+},
+{
+  "race_id": "904633",
+  "horse_id": "5915797",
+  "horse_name": "skyscraper",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:47.524480"
+},
+{
+  "race_id": "904633",
+  "horse_id": "6666807",
+  "horse_name": "teds-corner",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:47.611529"
+},
+{
+  "race_id": "904633",
+  "horse_id": "7597348",
+  "horse_name": "hope-she-flies",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:47.704474"
+},
+{
+  "race_id": "904633",
+  "horse_id": "5809868",
+  "horse_name": "takemeuptocarlow",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:47.781814"
+},
+{
+  "race_id": "904634",
+  "horse_id": "6233848",
+  "horse_name": "woodland-adventure",
+  "fodds": "6/4",
+  "opDec": 2.5,
+  "timestamp": "2025-09-29T10:01:48.200307"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7935087",
+  "horse_name": "dolce-n-milana",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:48.283980"
+},
+{
+  "race_id": "904634",
+  "horse_id": "6701928",
+  "horse_name": "walks-the-talk",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:48.389786"
+},
+{
+  "race_id": "904634",
+  "horse_id": "5793406",
+  "horse_name": "music-of-life",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:48.477320"
+},
+{
+  "race_id": "904634",
+  "horse_id": "4666922",
+  "horse_name": "youre-a-derry-girl",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:48.585765"
+},
+{
+  "race_id": "904634",
+  "horse_id": "6609348",
+  "horse_name": "atlantic-city",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:48.683106"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7935082",
+  "horse_name": "miss-jocund",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:48.771106"
+},
+{
+  "race_id": "904634",
+  "horse_id": "6111543",
+  "horse_name": "amboyna",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:48.862081"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7926351",
+  "horse_name": "clarnagh-maid",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:48.954729"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7404491",
+  "horse_name": "prized-jet",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:49.093833"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7139163",
+  "horse_name": "sarandon",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:49.180816"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7534573",
+  "horse_name": "toor-idaho",
+  "fodds": "50/1",
+  "opDec": 51,
+  "timestamp": "2025-09-29T10:01:49.268673"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7926342",
+  "horse_name": "invincible-oscar",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:49.385661"
+},
+{
+  "race_id": "904634",
+  "horse_id": "7996946",
+  "horse_name": "littleladyingreen",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:49.527792"
+},
+{
+  "race_id": "904634",
+  "horse_id": "6260968",
+  "horse_name": "poyraz-approach",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:49.593034"
+},
+{
+  "race_id": "904634",
+  "horse_id": "6802984",
+  "horse_name": "yoursimplythebest",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:01:49.684971"
+},
+{
+  "race_id": "904635",
+  "horse_id": "5826656",
+  "horse_name": "live-to-laugh",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:01:50.321522"
+},
+{
+  "race_id": "904635",
+  "horse_id": "58953289",
+  "horse_name": "gortmore-lady",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:01:50.475305"
+},
+{
+  "race_id": "904635",
+  "horse_id": "6855089",
+  "horse_name": "nettuno-italia",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:01:50.576110"
+},
+{
+  "race_id": "904635",
+  "horse_id": "6514069",
+  "horse_name": "mellem",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:01:50.875745"
+},
+{
+  "race_id": "904635",
+  "horse_id": "6768222",
+  "horse_name": "hitthehayson",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:50.960237"
+},
+{
+  "race_id": "904635",
+  "horse_id": "3500955",
+  "horse_name": "hard-target",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:01:51.119514"
+},
+{
+  "race_id": "904635",
+  "horse_id": "2617668",
+  "horse_name": "appian-way",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:51.209583"
+},
+{
+  "race_id": "904635",
+  "horse_id": "5003639",
+  "horse_name": "kilbrin-rocco",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:51.284558"
+},
+{
+  "race_id": "904635",
+  "horse_id": "7148048",
+  "horse_name": "little-boy-sivola",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:51.350319"
+},
+{
+  "race_id": "904635",
+  "horse_id": "6555401",
+  "horse_name": "swing-time",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:51.445170"
+},
+{
+  "race_id": "904635",
+  "horse_id": "1433478",
+  "horse_name": "derby-de-thaix",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:51.525172"
+},
+{
+  "race_id": "904635",
+  "horse_id": "3459472",
+  "horse_name": "donnrua-dream",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:51.612629"
+},
+{
+  "race_id": "904635",
+  "horse_id": "7961710",
+  "horse_name": "mr-erwitt",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:51.687743"
+},
+{
+  "race_id": "904635",
+  "horse_id": "2838269",
+  "horse_name": "nazine",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:51.780790"
+},
+{
+  "race_id": "904635",
+  "horse_id": "58956135",
+  "horse_name": "gather-yourself",
+  "fodds": "28/1",
+  "opDec": 29,
+  "timestamp": "2025-09-29T10:01:51.851431"
+},
+{
+  "race_id": "904635",
+  "horse_id": "6949234",
+  "horse_name": "annilogs-force",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:52.030848"
+},
+{
+  "race_id": "904636",
+  "horse_id": "5708479",
+  "horse_name": "quantum-quest",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:01:52.432347"
+},
+{
+  "race_id": "904636",
+  "horse_id": "5689569",
+  "horse_name": "birmingham-alabama",
+  "fodds": "100/30",
+  "opDec": 4.33,
+  "timestamp": "2025-09-29T10:01:52.545940"
+},
+{
+  "race_id": "904636",
+  "horse_id": "4942593",
+  "horse_name": "its-not-over-yet",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:52.649501"
+},
+{
+  "race_id": "904636",
+  "horse_id": "4231792",
+  "horse_name": "themanintheboots",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:52.734324"
+},
+{
+  "race_id": "904636",
+  "horse_id": "5845744",
+  "horse_name": "mags-nelson",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:52.828846"
+},
+{
+  "race_id": "904636",
+  "horse_id": "2765610",
+  "horse_name": "mephisto",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:52.915956"
+},
+{
+  "race_id": "904636",
+  "horse_id": "5003640",
+  "horse_name": "bigira",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:01:52.995941"
+},
+{
+  "race_id": "904636",
+  "horse_id": "5033134",
+  "horse_name": "dorans-law",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:53.165771"
+},
+{
+  "race_id": "904636",
+  "horse_id": "4015769",
+  "horse_name": "ballyglass-beauty",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:53.277554"
+},
+{
+  "race_id": "904636",
+  "horse_id": "3777987",
+  "horse_name": "another-choice",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:53.454102"
+},
+{
+  "race_id": "904636",
+  "horse_id": "4765711",
+  "horse_name": "milanaway",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:53.531674"
+},
+{
+  "race_id": "904637",
+  "horse_id": "4753537",
+  "horse_name": "westport-cove",
+  "fodds": "8/11",
+  "opDec": 1.73,
+  "timestamp": "2025-09-29T10:01:53.986115"
+},
+{
+  "race_id": "904637",
+  "horse_id": "4144680",
+  "horse_name": "king-of-kingsfield",
+  "fodds": "11/8",
+  "opDec": 2.38,
+  "timestamp": "2025-09-29T10:01:54.072452"
+},
+{
+  "race_id": "904637",
+  "horse_id": "3952103",
+  "horse_name": "special-cadeau",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:54.148696"
+},
+{
+  "race_id": "904637",
+  "horse_id": "4994572",
+  "horse_name": "itsalladream",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:54.269679"
+},
+{
+  "race_id": "904637",
+  "horse_id": "5007852",
+  "horse_name": "littlebiggie",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:01:54.378626"
+},
+{
+  "race_id": "904637",
+  "horse_id": "4247955",
+  "horse_name": "laurie-blue",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:01:54.449338"
+},
+{
+  "race_id": "904638",
+  "horse_id": "4908792",
+  "horse_name": "cobra-queen",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:01:55.084093"
+},
+{
+  "race_id": "904638",
+  "horse_id": "4305440",
+  "horse_name": "betty-dutton",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:01:55.200001"
+},
+{
+  "race_id": "904638",
+  "horse_id": "4893354",
+  "horse_name": "juniper-hill",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:55.284730"
+},
+{
+  "race_id": "904638",
+  "horse_id": "5428927",
+  "horse_name": "howya-luveen",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:55.350816"
+},
+{
+  "race_id": "904638",
+  "horse_id": "3745638",
+  "horse_name": "killinure-lass",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:55.424497"
+},
+{
+  "race_id": "904638",
+  "horse_id": "5116052",
+  "horse_name": "sea-aster",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:55.513124"
+},
+{
+  "race_id": "904638",
+  "horse_id": "4969846",
+  "horse_name": "ashdale-flyer",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:55.631763"
+},
+{
+  "race_id": "904638",
+  "horse_id": "4652649",
+  "horse_name": "nt-field-minnesota",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:01:55.736918"
+},
+{
+  "race_id": "904638",
+  "horse_id": "2871728",
+  "horse_name": "kilashee",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:55.836483"
+},
+{
+  "race_id": "904639",
+  "horse_id": "4965735",
+  "horse_name": "shadys-lady",
+  "fodds": "13/8",
+  "opDec": 2.62,
+  "timestamp": "2025-09-29T10:01:56.248040"
+},
+{
+  "race_id": "904639",
+  "horse_id": "7441036",
+  "horse_name": "ozarks-walk",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:01:56.348630"
+},
+{
+  "race_id": "904639",
+  "horse_id": "7499370",
+  "horse_name": "onlyforfrankie",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:01:56.453613"
+},
+{
+  "race_id": "904639",
+  "horse_id": "8179371",
+  "horse_name": "seventeen-b",
+  "fodds": "15/2",
+  "opDec": 8.5,
+  "timestamp": "2025-09-29T10:01:56.527725"
+},
+{
+  "race_id": "904639",
+  "horse_id": "8170201",
+  "horse_name": "blossomfort-flyer",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:56.607788"
+},
+{
+  "race_id": "904639",
+  "horse_id": "8179369",
+  "horse_name": "gaelic-empress",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:01:56.721630"
+},
+{
+  "race_id": "904639",
+  "horse_id": "8174784",
+  "horse_name": "minnatrix",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:01:56.800342"
+},
+{
+  "race_id": "904639",
+  "horse_id": "8144036",
+  "horse_name": "gethegoodtimesroll",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:56.909582"
+},
+{
+  "race_id": "904639",
+  "horse_id": "7530068",
+  "horse_name": "texas-red",
+  "fodds": "22/1",
+  "opDec": 23,
+  "timestamp": "2025-09-29T10:01:56.995631"
+},
+{
+  "race_id": "904639",
+  "horse_id": "7303456",
+  "horse_name": "hi-handsome",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:57.088913"
+},
+{
+  "race_id": "904639",
+  "horse_id": "6921051",
+  "horse_name": "rush-slowly",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:01:57.218324"
+},
+{
+  "race_id": "902400",
+  "horse_id": "6130357",
+  "horse_name": "impartiality",
+  "fodds": "9/4",
+  "opDec": 3.25,
+  "timestamp": "2025-09-29T10:01:58.683292"
+},
+{
+  "race_id": "902400",
+  "horse_id": "6388817",
+  "horse_name": "jannas-journey",
+  "fodds": "5/2",
+  "opDec": 3.5,
+  "timestamp": "2025-09-29T10:01:58.772939"
+},
+{
+  "race_id": "902400",
+  "horse_id": "4350772",
+  "horse_name": "spioradalta",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:01:58.856877"
+},
+{
+  "race_id": "902400",
+  "horse_id": "5079032",
+  "horse_name": "individualism",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:58.936517"
+},
+{
+  "race_id": "902400",
+  "horse_id": "5230699",
+  "horse_name": "bubbles-wonky",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:59.018963"
+},
+{
+  "race_id": "902400",
+  "horse_id": "6215506",
+  "horse_name": "elsies-ruan",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:01:59.116611"
+},
+{
+  "race_id": "902400",
+  "horse_id": "5104236",
+  "horse_name": "starliner",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:01:59.202729"
+},
+{
+  "race_id": "902401",
+  "horse_id": "5309181",
+  "horse_name": "eternal-sunshine",
+  "fodds": "2/1",
+  "opDec": 3,
+  "timestamp": "2025-09-29T10:01:59.620806"
+},
+{
+  "race_id": "902401",
+  "horse_id": "6582477",
+  "horse_name": "corolla-point",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:01:59.724648"
+},
+{
+  "race_id": "902401",
+  "horse_id": "5226936",
+  "horse_name": "brummell",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:01:59.800673"
+},
+{
+  "race_id": "902401",
+  "horse_id": "5708731",
+  "horse_name": "al-hussar",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:59.863440"
+},
+{
+  "race_id": "902401",
+  "horse_id": "5154292",
+  "horse_name": "kodiac-thriller",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:01:59.949711"
+},
+{
+  "race_id": "902401",
+  "horse_id": "5073244",
+  "horse_name": "amayretto",
+  "fodds": "9/1",
+  "opDec": 10,
+  "timestamp": "2025-09-29T10:02:00.025675"
+},
+{
+  "race_id": "902401",
+  "horse_id": "5172514",
+  "horse_name": "lions-house",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:00.144458"
+},
+{
+  "race_id": "902401",
+  "horse_id": "4395016",
+  "horse_name": "changeofmind",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:00.216714"
+},
+{
+  "race_id": "902401",
+  "horse_id": "4924550",
+  "horse_name": "moonstone-boy",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:00.305787"
+},
+{
+  "race_id": "902401",
+  "horse_id": "6514070",
+  "horse_name": "hi-lord",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:00.403461"
+},
+{
+  "race_id": "902402",
+  "horse_id": "7204926",
+  "horse_name": "eat-pray-run",
+  "fodds": "1/20",
+  "opDec": 1.05,
+  "timestamp": "2025-09-29T10:02:00.936963"
+},
+{
+  "race_id": "902402",
+  "horse_id": "8084430",
+  "horse_name": "supremissy",
+  "fodds": "9/1",
+  "opDec": 10,
+  "timestamp": "2025-09-29T10:02:01.020327"
+},
+{
+  "race_id": "902403",
+  "horse_id": "6079166",
+  "horse_name": "kranjcar",
+  "fodds": "6/4",
+  "opDec": 2.5,
+  "timestamp": "2025-09-29T10:02:01.496091"
+},
+{
+  "race_id": "902403",
+  "horse_id": "2734126",
+  "horse_name": "impressor",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:01.582252"
+},
+{
+  "race_id": "902403",
+  "horse_id": "5973427",
+  "horse_name": "thunderstorm-katie",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:01.691724"
+},
+{
+  "race_id": "902403",
+  "horse_id": "3997631",
+  "horse_name": "giselles-izzy",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:02:01.762018"
+},
+{
+  "race_id": "902403",
+  "horse_id": "3326341",
+  "horse_name": "hallowed-time",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:01.848929"
+},
+{
+  "race_id": "902403",
+  "horse_id": "3092685",
+  "horse_name": "iris-dancer",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:01.921803"
+},
+{
+  "race_id": "902403",
+  "horse_id": "3549487",
+  "horse_name": "bay-breeze",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:02.173470"
+},
+{
+  "race_id": "902404",
+  "horse_id": "4502653",
+  "horse_name": "arkenstaar",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:02.751674"
+},
+{
+  "race_id": "902404",
+  "horse_id": "3597221",
+  "horse_name": "ey-up-its-jazz",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:02:02.870007"
+},
+{
+  "race_id": "902404",
+  "horse_id": "7789374",
+  "horse_name": "asian-journey",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:02.969637"
+},
+{
+  "race_id": "902404",
+  "horse_id": "6151842",
+  "horse_name": "sir-david",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:03.057734"
+},
+{
+  "race_id": "902404",
+  "horse_id": "2729681",
+  "horse_name": "hostelry",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:03.135552"
+},
+{
+  "race_id": "902404",
+  "horse_id": "2791132",
+  "horse_name": "pisanello",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:03.334667"
+},
+{
+  "race_id": "902404",
+  "horse_id": "6042412",
+  "horse_name": "runninsonofagun",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:03.401885"
+},
+{
+  "race_id": "902404",
+  "horse_id": "4281799",
+  "horse_name": "inanna",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:03.595973"
+},
+{
+  "race_id": "902404",
+  "horse_id": "2883397",
+  "horse_name": "shine-on-brendan",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:03.689906"
+},
+{
+  "race_id": "902405",
+  "horse_id": "5884215",
+  "horse_name": "stirrup-cup",
+  "fodds": "5/2",
+  "opDec": 3.5,
+  "timestamp": "2025-09-29T10:02:04.150711"
+},
+{
+  "race_id": "902405",
+  "horse_id": "3505929",
+  "horse_name": "harb",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:02:04.242117"
+},
+{
+  "race_id": "902405",
+  "horse_id": "5089269",
+  "horse_name": "ganesha",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:04.348046"
+},
+{
+  "race_id": "902405",
+  "horse_id": "3168686",
+  "horse_name": "sir-benedict",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:04.451321"
+},
+{
+  "race_id": "902405",
+  "horse_id": "2708949",
+  "horse_name": "never-dark",
+  "fodds": "9/1",
+  "opDec": 10,
+  "timestamp": "2025-09-29T10:02:04.536781"
+},
+{
+  "race_id": "902405",
+  "horse_id": "3500889",
+  "horse_name": "dandy-dinmont",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:04.621826"
+},
+{
+  "race_id": "902405",
+  "horse_id": "5120121",
+  "horse_name": "good-point",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:04.732510"
+},
+{
+  "race_id": "902405",
+  "horse_id": "5878991",
+  "horse_name": "jm-jhingree",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:04.803069"
+},
+{
+  "race_id": "902405",
+  "horse_id": "1207729",
+  "horse_name": "delagate-this-lord",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:04.901899"
+},
+{
+  "race_id": "902405",
+  "horse_id": "2996576",
+  "horse_name": "jojo-rabbit",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:04.971640"
+},
+{
+  "race_id": "902406",
+  "horse_id": "7597376",
+  "horse_name": "both-of-us",
+  "fodds": "5/4",
+  "opDec": 2.25,
+  "timestamp": "2025-09-29T10:02:06.096687"
+},
+{
+  "race_id": "902406",
+  "horse_id": "4584386",
+  "horse_name": "vampire-slayer",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:02:06.203975"
+},
+{
+  "race_id": "902406",
+  "horse_id": "7293769",
+  "horse_name": "grizzieblanca",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:06.279312"
+},
+{
+  "race_id": "902406",
+  "horse_id": "5845561",
+  "horse_name": "hickton",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:02:06.368169"
+},
+{
+  "race_id": "902406",
+  "horse_id": "2801626",
+  "horse_name": "dandys-angel",
+  "fodds": "11/1",
+  "opDec": 12,
+  "timestamp": "2025-09-29T10:02:06.441144"
+},
+{
+  "race_id": "902406",
+  "horse_id": "6345380",
+  "horse_name": "elizabeths-legacy",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:06.511106"
+},
+{
+  "race_id": "902406",
+  "horse_id": "7227197",
+  "horse_name": "woodshaw",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:06.602257"
+},
+{
+  "race_id": "902406",
+  "horse_id": "2080896",
+  "horse_name": "hot-team",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:06.683962"
+},
+{
+  "race_id": "902406",
+  "horse_id": "6197896",
+  "horse_name": "tiger-kitten",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:06.805954"
+},
+{
+  "race_id": "902406",
+  "horse_id": "5309177",
+  "horse_name": "millbuie",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:02:06.900036"
+},
+{
+  "race_id": "902509",
+  "horse_id": "4346553",
+  "horse_name": "bagheera-ginge",
+  "fodds": "15/8",
+  "opDec": 2.88,
+  "timestamp": "2025-09-29T10:02:07.404606"
+},
+{
+  "race_id": "902509",
+  "horse_id": "3031663",
+  "horse_name": "hold-your-fort",
+  "fodds": "9/4",
+  "opDec": 3.25,
+  "timestamp": "2025-09-29T10:02:07.493635"
+},
+{
+  "race_id": "902509",
+  "horse_id": "3434295",
+  "horse_name": "stans-the-man",
+  "fodds": "100/30",
+  "opDec": 4.33,
+  "timestamp": "2025-09-29T10:02:07.565985"
+},
+{
+  "race_id": "902509",
+  "horse_id": "2961534",
+  "horse_name": "killer-kane",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:07.650973"
+},
+{
+  "race_id": "902509",
+  "horse_id": "2603860",
+  "horse_name": "road-senam",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:07.775286"
+},
+{
+  "race_id": "902510",
+  "horse_id": "4950386",
+  "horse_name": "centara",
+  "fodds": "5/4",
+  "opDec": 2.25,
+  "timestamp": "2025-09-29T10:02:08.404983"
+},
+{
+  "race_id": "902510",
+  "horse_id": "4129104",
+  "horse_name": "breaking-cover",
+  "fodds": "11/8",
+  "opDec": 2.38,
+  "timestamp": "2025-09-29T10:02:08.540003"
+},
+{
+  "race_id": "902510",
+  "horse_id": "5428942",
+  "horse_name": "synchronist",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:08.638132"
+},
+{
+  "race_id": "902511",
+  "horse_id": "4217510",
+  "horse_name": "coconut-twist",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:09.076682"
+},
+{
+  "race_id": "902511",
+  "horse_id": "6675654",
+  "horse_name": "stinginhisstep",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:09.156136"
+},
+{
+  "race_id": "902511",
+  "horse_id": "3038171",
+  "horse_name": "striking-a-pose",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:09.238773"
+},
+{
+  "race_id": "902511",
+  "horse_id": "4622315",
+  "horse_name": "despereaux",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:09.335649"
+},
+{
+  "race_id": "902512",
+  "horse_id": "3177346",
+  "horse_name": "dickens",
+  "fodds": "13/8",
+  "opDec": 2.62,
+  "timestamp": "2025-09-29T10:02:09.807565"
+},
+{
+  "race_id": "902512",
+  "horse_id": "3102095",
+  "horse_name": "sassified",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:02:09.884822"
+},
+{
+  "race_id": "902512",
+  "horse_id": "3116601",
+  "horse_name": "gavin",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:10.113471"
+},
+{
+  "race_id": "902512",
+  "horse_id": "5806682",
+  "horse_name": "model-approach",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:10.439728"
+},
+{
+  "race_id": "902512",
+  "horse_id": "3087860",
+  "horse_name": "the-longest-day",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:10.514877"
+},
+{
+  "race_id": "902512",
+  "horse_id": "2824072",
+  "horse_name": "byzantine-empire",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:10.595882"
+},
+{
+  "race_id": "902512",
+  "horse_id": "4247931",
+  "horse_name": "mega-speculator",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:10.681940"
+},
+{
+  "race_id": "902512",
+  "horse_id": "3282206",
+  "horse_name": "silent-revolution",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:10.764521"
+},
+{
+  "race_id": "902512",
+  "horse_id": "3161489",
+  "horse_name": "greystoke",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:10.844646"
+},
+{
+  "race_id": "902513",
+  "horse_id": "5889967",
+  "horse_name": "john-barbour",
+  "fodds": "11/10",
+  "opDec": 2.1,
+  "timestamp": "2025-09-29T10:02:11.341924"
+},
+{
+  "race_id": "902513",
+  "horse_id": "7191406",
+  "horse_name": "at-the-oche",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:11.421857"
+},
+{
+  "race_id": "902513",
+  "horse_id": "6291930",
+  "horse_name": "best-night",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:11.501693"
+},
+{
+  "race_id": "902513",
+  "horse_id": "4697468",
+  "horse_name": "jaminska",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:11.590126"
+},
+{
+  "race_id": "902513",
+  "horse_id": "6892516",
+  "horse_name": "dearkeithandkaty",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:11.709589"
+},
+{
+  "race_id": "902513",
+  "horse_id": "7169845",
+  "horse_name": "lewisham-grove",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:11.800007"
+},
+{
+  "race_id": "902513",
+  "horse_id": "5920285",
+  "horse_name": "drumstick",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:11.886585"
+},
+{
+  "race_id": "902513",
+  "horse_id": "4994500",
+  "horse_name": "emaculate-soldier",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:11.961350"
+},
+{
+  "race_id": "902513",
+  "horse_id": "5695285",
+  "horse_name": "lennie-godber",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:12.043587"
+},
+{
+  "race_id": "902513",
+  "horse_id": "6354476",
+  "horse_name": "peace-motivator",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:12.140501"
+},
+{
+  "race_id": "902513",
+  "horse_id": "6175554",
+  "horse_name": "meridian-way",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:02:12.219990"
+},
+{
+  "race_id": "902513",
+  "horse_id": "5842797",
+  "horse_name": "aceofadiamond",
+  "fodds": "100/1",
+  "opDec": 101,
+  "timestamp": "2025-09-29T10:02:12.296270"
+},
+{
+  "race_id": "902514",
+  "horse_id": "5329086",
+  "horse_name": "tropical-speed",
+  "fodds": "6/4",
+  "opDec": 2.5,
+  "timestamp": "2025-09-29T10:02:12.985242"
+},
+{
+  "race_id": "902514",
+  "horse_id": "5059605",
+  "horse_name": "touchwoodexpress",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:13.076931"
+},
+{
+  "race_id": "902514",
+  "horse_id": "4102972",
+  "horse_name": "testflight",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:13.158727"
+},
+{
+  "race_id": "902514",
+  "horse_id": "3272452",
+  "horse_name": "great-dange",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:13.419396"
+},
+{
+  "race_id": "902514",
+  "horse_id": "2481577",
+  "horse_name": "enjoy-dallen",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:13.495048"
+},
+{
+  "race_id": "902624",
+  "horse_id": "4827183",
+  "horse_name": "phoenix-moon",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:14.021847"
+},
+{
+  "race_id": "902624",
+  "horse_id": "5803649",
+  "horse_name": "improve-your-move",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:14.089445"
+},
+{
+  "race_id": "902624",
+  "horse_id": "6613655",
+  "horse_name": "after-love",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:14.177696"
+},
+{
+  "race_id": "902624",
+  "horse_id": "4277869",
+  "horse_name": "daytona-lady",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:14.247325"
+},
+{
+  "race_id": "902624",
+  "horse_id": "4303383",
+  "horse_name": "holy-fire",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:14.349215"
+},
+{
+  "race_id": "902624",
+  "horse_id": "6202583",
+  "horse_name": "addarella",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:14.480014"
+},
+{
+  "race_id": "902624",
+  "horse_id": "7588046",
+  "horse_name": "spirit-of-jenny",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:14.606890"
+},
+{
+  "race_id": "902624",
+  "horse_id": "6640611",
+  "horse_name": "boyne-lady",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:14.689999"
+},
+{
+  "race_id": "902624",
+  "horse_id": "6088062",
+  "horse_name": "melissa-honey",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:14.780069"
+},
+{
+  "race_id": "902624",
+  "horse_id": "5104286",
+  "horse_name": "ziggys-queen",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:14.864662"
+},
+{
+  "race_id": "902624",
+  "horse_id": "6541719",
+  "horse_name": "lady-modena",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:14.952212"
+},
+{
+  "race_id": "902624",
+  "horse_id": "5826590",
+  "horse_name": "storm-call",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:15.059583"
+},
+{
+  "race_id": "902624",
+  "horse_id": "5878980",
+  "horse_name": "spiritualism",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:15.162034"
+},
+{
+  "race_id": "902625",
+  "horse_id": "4281795",
+  "horse_name": "grace-angel",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:02:15.972095"
+},
+{
+  "race_id": "902625",
+  "horse_id": "4409383",
+  "horse_name": "thankuappreciate",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:16.044192"
+},
+{
+  "race_id": "902625",
+  "horse_id": "3668348",
+  "horse_name": "le-beau-garcon",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:16.119781"
+},
+{
+  "race_id": "902625",
+  "horse_id": "6151841",
+  "horse_name": "ziggys-triton",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:02:16.248682"
+},
+{
+  "race_id": "902625",
+  "horse_id": "4963772",
+  "horse_name": "sturlasson",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:16.328554"
+},
+{
+  "race_id": "902625",
+  "horse_id": "4743599",
+  "horse_name": "popular-dream",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:16.446042"
+},
+{
+  "race_id": "902625",
+  "horse_id": "6278733",
+  "horse_name": "blue-anthem",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:16.521553"
+},
+{
+  "race_id": "902625",
+  "horse_id": "4241628",
+  "horse_name": "kings-crown",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:16.615099"
+},
+{
+  "race_id": "902625",
+  "horse_id": "4257436",
+  "horse_name": "phoenix-beach",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:16.688934"
+},
+{
+  "race_id": "902625",
+  "horse_id": "5079042",
+  "horse_name": "mart",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:16.761483"
+},
+{
+  "race_id": "902625",
+  "horse_id": "5708703",
+  "horse_name": "j-street",
+  "fodds": "22/1",
+  "opDec": 23,
+  "timestamp": "2025-09-29T10:02:16.869547"
+},
+{
+  "race_id": "902625",
+  "horse_id": "3096162",
+  "horse_name": "ready-freddie-go",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:16.989669"
+},
+{
+  "race_id": "902626",
+  "horse_id": "5831371",
+  "horse_name": "luminoso",
+  "fodds": "5/2",
+  "opDec": 3.5,
+  "timestamp": "2025-09-29T10:02:17.553454"
+},
+{
+  "race_id": "902626",
+  "horse_id": "6005910",
+  "horse_name": "stellenbosch",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:02:17.636735"
+},
+{
+  "race_id": "902626",
+  "horse_id": "6238180",
+  "horse_name": "goldie-trickett",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:17.715529"
+},
+{
+  "race_id": "902626",
+  "horse_id": "8174791",
+  "horse_name": "welljudged",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:17.800441"
+},
+{
+  "race_id": "902626",
+  "horse_id": "8001134",
+  "horse_name": "lost-in-wonder",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:17.879437"
+},
+{
+  "race_id": "902626",
+  "horse_id": "7983192",
+  "horse_name": "abila",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:17.979273"
+},
+{
+  "race_id": "902626",
+  "horse_id": "6309456",
+  "horse_name": "my-o-my",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:18.118302"
+},
+{
+  "race_id": "902627",
+  "horse_id": "8052957",
+  "horse_name": "rose-of-honour",
+  "fodds": "13/8",
+  "opDec": 2.62,
+  "timestamp": "2025-09-29T10:02:18.608696"
+},
+{
+  "race_id": "902627",
+  "horse_id": "6657541",
+  "horse_name": "spitzbergen",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:02:18.689602"
+},
+{
+  "race_id": "902627",
+  "horse_id": "6229372",
+  "horse_name": "brakeman",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:18.759834"
+},
+{
+  "race_id": "902627",
+  "horse_id": "5982372",
+  "horse_name": "vamp",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:18.841996"
+},
+{
+  "race_id": "902627",
+  "horse_id": "6120961",
+  "horse_name": "knightmare",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:19.015230"
+},
+{
+  "race_id": "902627",
+  "horse_id": "5579968",
+  "horse_name": "blue-lancero",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:19.142421"
+},
+{
+  "race_id": "902627",
+  "horse_id": "8101895",
+  "horse_name": "hes-our-cracker",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:19.225851"
+},
+{
+  "race_id": "902627",
+  "horse_id": "7597361",
+  "horse_name": "harry-mole",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:02:19.353979"
+},
+{
+  "race_id": "902627",
+  "horse_id": "8174789",
+  "horse_name": "wiseton-prospect",
+  "fodds": "40/1",
+  "opDec": 41,
+  "timestamp": "2025-09-29T10:02:19.458713"
+},
+{
+  "race_id": "902628",
+  "horse_id": "7878363",
+  "horse_name": "mayfair-market",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:02:19.960236"
+},
+{
+  "race_id": "902628",
+  "horse_id": "8174792",
+  "horse_name": "tago-mago",
+  "fodds": "3/1",
+  "opDec": 4,
+  "timestamp": "2025-09-29T10:02:20.064831"
+},
+{
+  "race_id": "902628",
+  "horse_id": "7947742",
+  "horse_name": "art-gallery",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:02:20.178543"
+},
+{
+  "race_id": "902628",
+  "horse_id": "7966348",
+  "horse_name": "izznt-she-hot",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:02:20.296797"
+},
+{
+  "race_id": "902628",
+  "horse_id": "8001136",
+  "horse_name": "cotton-bud",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:20.358127"
+},
+{
+  "race_id": "902628",
+  "horse_id": "8031349",
+  "horse_name": "crafty-blue",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:20.446541"
+},
+{
+  "race_id": "902628",
+  "horse_id": "8174736",
+  "horse_name": "hot-and-cold",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:20.537231"
+},
+{
+  "race_id": "902628",
+  "horse_id": "7935112",
+  "horse_name": "reasons-power",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:20.618000"
+},
+{
+  "race_id": "902628",
+  "horse_id": "8101900",
+  "horse_name": "capricorn-belle",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:20.696226"
+},
+{
+  "race_id": "902629",
+  "horse_id": "3662560",
+  "horse_name": "my-ambition",
+  "fodds": "5/2",
+  "opDec": 3.5,
+  "timestamp": "2025-09-29T10:02:21.278962"
+},
+{
+  "race_id": "902629",
+  "horse_id": "5063630",
+  "horse_name": "woodleigh",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:21.378064"
+},
+{
+  "race_id": "902629",
+  "horse_id": "2859502",
+  "horse_name": "back-from-dubai",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:21.469761"
+},
+{
+  "race_id": "902629",
+  "horse_id": "1214439",
+  "horse_name": "my-brother-mike",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:21.575451"
+},
+{
+  "race_id": "902629",
+  "horse_id": "5019619",
+  "horse_name": "kaaress",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:21.659074"
+},
+{
+  "race_id": "902629",
+  "horse_id": "4528447",
+  "horse_name": "haaf-a-diamond",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:21.728836"
+},
+{
+  "race_id": "902629",
+  "horse_id": "5079239",
+  "horse_name": "cuban-fiesta",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:21.808219"
+},
+{
+  "race_id": "902629",
+  "horse_id": "3500887",
+  "horse_name": "kodebreaker",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:21.904808"
+},
+{
+  "race_id": "902629",
+  "horse_id": "4350742",
+  "horse_name": "create",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:21.978929"
+},
+{
+  "race_id": "902629",
+  "horse_id": "3550655",
+  "horse_name": "heretic",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:22.049689"
+},
+{
+  "race_id": "902629",
+  "horse_id": "5856690",
+  "horse_name": "jazz-scene",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:22.124071"
+},
+{
+  "race_id": "902629",
+  "horse_id": "4575810",
+  "horse_name": "ciara-storm",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:22.190947"
+},
+{
+  "race_id": "902629",
+  "horse_id": "4471667",
+  "horse_name": "vecchio",
+  "fodds": "50/1",
+  "opDec": 51,
+  "timestamp": "2025-09-29T10:02:22.349665"
+},
+{
+  "race_id": "902629",
+  "horse_id": "5102055",
+  "horse_name": "eagle-landed",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:02:22.706891"
+},
+{
+  "race_id": "902630",
+  "horse_id": "6737339",
+  "horse_name": "universal-story",
+  "fodds": "13/8",
+  "opDec": 2.62,
+  "timestamp": "2025-09-29T10:02:23.317537"
+},
+{
+  "race_id": "902630",
+  "horse_id": "5089392",
+  "horse_name": "spectacular-style",
+  "fodds": "5/2",
+  "opDec": 3.5,
+  "timestamp": "2025-09-29T10:02:23.398002"
+},
+{
+  "race_id": "902630",
+  "horse_id": "7789360",
+  "horse_name": "big-win",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:02:23.470363"
+},
+{
+  "race_id": "902630",
+  "horse_id": "7355922",
+  "horse_name": "rose-warrior",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:02:23.540820"
+},
+{
+  "race_id": "902630",
+  "horse_id": "3263909",
+  "horse_name": "mond",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:23.613742"
+},
+{
+  "race_id": "902630",
+  "horse_id": "4217529",
+  "horse_name": "wasthatok",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:23.726756"
+},
+{
+  "race_id": "902631",
+  "horse_id": "5364278",
+  "horse_name": "silky-robin",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:25.055754"
+},
+{
+  "race_id": "902631",
+  "horse_id": "5355690",
+  "horse_name": "the-real-mckay",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:25.142526"
+},
+{
+  "race_id": "902631",
+  "horse_id": "4307329",
+  "horse_name": "winter-crown",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:25.311343"
+},
+{
+  "race_id": "902631",
+  "horse_id": "6604827",
+  "horse_name": "ottawa",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:25.390252"
+},
+{
+  "race_id": "902631",
+  "horse_id": "4175322",
+  "horse_name": "roaring-ralph",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:25.468728"
+},
+{
+  "race_id": "902631",
+  "horse_id": "4924552",
+  "horse_name": "sedgemoor",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:25.555898"
+},
+{
+  "race_id": "902631",
+  "horse_id": "5937867",
+  "horse_name": "atomic-mass",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:25.660873"
+},
+{
+  "race_id": "902631",
+  "horse_id": "6451099",
+  "horse_name": "darn-hot-time",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:25.742606"
+},
+{
+  "race_id": "902631",
+  "horse_id": "5595716",
+  "horse_name": "thanks-dad",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:25.829333"
+},
+{
+  "race_id": "902631",
+  "horse_id": "6728408",
+  "horse_name": "bintofie",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:25.969395"
+},
+{
+  "race_id": "902631",
+  "horse_id": "3243593",
+  "horse_name": "a-pint-of-bear",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:26.075937"
+},
+{
+  "race_id": "902631",
+  "horse_id": "3709123",
+  "horse_name": "rambuso-creek",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:26.161485"
+},
+{
+  "race_id": "904732",
+  "horse_id": "8089239",
+  "horse_name": "zambezi",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:02:26.687462"
+},
+{
+  "race_id": "904732",
+  "horse_id": "8183840",
+  "horse_name": "swiss-moon",
+  "fodds": "9/2",
+  "opDec": 5.5,
+  "timestamp": "2025-09-29T10:02:26.788454"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7830246",
+  "horse_name": "waiting-for-you",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:26.975532"
+},
+{
+  "race_id": "904732",
+  "horse_id": "8183821",
+  "horse_name": "centauri",
+  "fodds": "15/2",
+  "opDec": 8.5,
+  "timestamp": "2025-09-29T10:02:27.069413"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7865879",
+  "horse_name": "siciliano",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:27.172617"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7605836",
+  "horse_name": "arlong-fal",
+  "fodds": "9/1",
+  "opDec": 10,
+  "timestamp": "2025-09-29T10:02:27.258111"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7806377",
+  "horse_name": "suspended-sentence",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:27.342576"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7878426",
+  "horse_name": "royal-chapel",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:27.432026"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7631392",
+  "horse_name": "agiota",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:27.509204"
+},
+{
+  "race_id": "904732",
+  "horse_id": "8183831",
+  "horse_name": "nebur",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:27.651538"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7390838",
+  "horse_name": "zelzara",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:27.761123"
+},
+{
+  "race_id": "904732",
+  "horse_id": "7865881",
+  "horse_name": "mefie-toi",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:27.874336"
+},
+{
+  "race_id": "902393",
+  "horse_id": "5991234",
+  "horse_name": "dalmally",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:28.396734"
+},
+{
+  "race_id": "902393",
+  "horse_id": "3101958",
+  "horse_name": "darvel",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:28.480421"
+},
+{
+  "race_id": "902393",
+  "horse_id": "4431798",
+  "horse_name": "oj-lifestyle",
+  "fodds": "11/2",
+  "opDec": 6.5,
+  "timestamp": "2025-09-29T10:02:28.571390"
+},
+{
+  "race_id": "902393",
+  "horse_id": "6379989",
+  "horse_name": "play-me",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:28.647559"
+},
+{
+  "race_id": "902393",
+  "horse_id": "6193144",
+  "horse_name": "bintjan",
+  "fodds": "15/2",
+  "opDec": 8.5,
+  "timestamp": "2025-09-29T10:02:28.734802"
+},
+{
+  "race_id": "902393",
+  "horse_id": "6928478",
+  "horse_name": "lunanova",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:28.834396"
+},
+{
+  "race_id": "902393",
+  "horse_id": "3550657",
+  "horse_name": "marsh-benham",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:28.962408"
+},
+{
+  "race_id": "902393",
+  "horse_id": "6759099",
+  "horse_name": "tenbob-tommy",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:29.052144"
+},
+{
+  "race_id": "902393",
+  "horse_id": "6092542",
+  "horse_name": "lady-justice",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:29.162768"
+},
+{
+  "race_id": "902393",
+  "horse_id": "3136504",
+  "horse_name": "uncle-dick",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:29.274563"
+},
+{
+  "race_id": "902393",
+  "horse_id": "5123491",
+  "horse_name": "newfangled",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:29.392364"
+},
+{
+  "race_id": "902394",
+  "horse_id": "7409486",
+  "horse_name": "cosmo-goodspeed",
+  "fodds": "11/8",
+  "opDec": 2.38,
+  "timestamp": "2025-09-29T10:02:30.046721"
+},
+{
+  "race_id": "902394",
+  "horse_id": "7191403",
+  "horse_name": "mapplethorpe",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:30.135374"
+},
+{
+  "race_id": "902394",
+  "horse_id": "7267857",
+  "horse_name": "melosa",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:30.235306"
+},
+{
+  "race_id": "902395",
+  "horse_id": "7378606",
+  "horse_name": "just-adair",
+  "fodds": "2/1",
+  "opDec": 3,
+  "timestamp": "2025-09-29T10:02:30.716296"
+},
+{
+  "race_id": "902395",
+  "horse_id": "6465143",
+  "horse_name": "love-you-back",
+  "fodds": "9/4",
+  "opDec": 3.25,
+  "timestamp": "2025-09-29T10:02:30.843107"
+},
+{
+  "race_id": "902395",
+  "horse_id": "5104251",
+  "horse_name": "al-khawaneej-river",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:30.974746"
+},
+{
+  "race_id": "902395",
+  "horse_id": "5708940",
+  "horse_name": "emily-rebecca",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:31.093330"
+},
+{
+  "race_id": "902395",
+  "horse_id": "3103593",
+  "horse_name": "john-locke",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:31.201916"
+},
+{
+  "race_id": "902395",
+  "horse_id": "3781884",
+  "horse_name": "graffiti",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:31.319709"
+},
+{
+  "race_id": "902395",
+  "horse_id": "5147965",
+  "horse_name": "versatile",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:31.490786"
+},
+{
+  "race_id": "902396",
+  "horse_id": "3039452",
+  "horse_name": "toussarok",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:31.949798"
+},
+{
+  "race_id": "902396",
+  "horse_id": "7312416",
+  "horse_name": "desert-beauty",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:32.050923"
+},
+{
+  "race_id": "902396",
+  "horse_id": "5127980",
+  "horse_name": "gone-rogue",
+  "fodds": "13/2",
+  "opDec": 7.5,
+  "timestamp": "2025-09-29T10:02:32.135161"
+},
+{
+  "race_id": "902396",
+  "horse_id": "2829583",
+  "horse_name": "kondratiev-wave",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:32.216110"
+},
+{
+  "race_id": "902396",
+  "horse_id": "5708806",
+  "horse_name": "mighty-real",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:32.299652"
+},
+{
+  "race_id": "902396",
+  "horse_id": "6130347",
+  "horse_name": "callout",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:32.384760"
+},
+{
+  "race_id": "902396",
+  "horse_id": "3634785",
+  "horse_name": "king-of-war",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:32.488444"
+},
+{
+  "race_id": "902396",
+  "horse_id": "6296581",
+  "horse_name": "grovely-belle",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:32.605463"
+},
+{
+  "race_id": "902396",
+  "horse_id": "4334967",
+  "horse_name": "werenotreallyhere",
+  "fodds": "16/1",
+  "opDec": 17,
+  "timestamp": "2025-09-29T10:02:32.739086"
+},
+{
+  "race_id": "902396",
+  "horse_id": "5082941",
+  "horse_name": "professor-tickle",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:32.835362"
+},
+{
+  "race_id": "902396",
+  "horse_id": "6983760",
+  "horse_name": "dance-recital",
+  "fodds": "33/1",
+  "opDec": 34,
+  "timestamp": "2025-09-29T10:02:32.917939"
+},
+{
+  "race_id": "902396",
+  "horse_id": "6873186",
+  "horse_name": "hot-shot-lawyer",
+  "fodds": "50/1",
+  "opDec": 51,
+  "timestamp": "2025-09-29T10:02:33.046632"
+},
+{
+  "race_id": "902396",
+  "horse_id": "7055593",
+  "horse_name": "miraflores",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:02:33.145086"
+},
+{
+  "race_id": "902396",
+  "horse_id": "5015358",
+  "horse_name": "mrs-maisel",
+  "fodds": "66/1",
+  "opDec": 67,
+  "timestamp": "2025-09-29T10:02:33.240801"
+},
+{
+  "race_id": "902397",
+  "horse_id": "6560228",
+  "horse_name": "rovinia",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:02:33.655752"
+},
+{
+  "race_id": "902397",
+  "horse_id": "5237780",
+  "horse_name": "upper-hand",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:33.778784"
+},
+{
+  "race_id": "902397",
+  "horse_id": "4213762",
+  "horse_name": "hannahs-return",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:33.884044"
+},
+{
+  "race_id": "902397",
+  "horse_id": "2996824",
+  "horse_name": "mehmo",
+  "fodds": "7/1",
+  "opDec": 8,
+  "timestamp": "2025-09-29T10:02:33.981252"
+},
+{
+  "race_id": "902397",
+  "horse_id": "58956195",
+  "horse_name": "rinky-tinky-tinky",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:34.093914"
+},
+{
+  "race_id": "902397",
+  "horse_id": "4438462",
+  "horse_name": "roman-spring",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:34.221360"
+},
+{
+  "race_id": "902397",
+  "horse_id": "4977930",
+  "horse_name": "big-time-rascal",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:34.354453"
+},
+{
+  "race_id": "902397",
+  "horse_id": "5968910",
+  "horse_name": "beautiful-things",
+  "fodds": "14/1",
+  "opDec": 15,
+  "timestamp": "2025-09-29T10:02:34.440834"
+},
+{
+  "race_id": "902397",
+  "horse_id": "6300771",
+  "horse_name": "commendation",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:34.571244"
+},
+{
+  "race_id": "902397",
+  "horse_id": "4499169",
+  "horse_name": "haveagobeau",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:34.667014"
+},
+{
+  "race_id": "902398",
+  "horse_id": "3705544",
+  "horse_name": "starsong",
+  "fodds": "11/4",
+  "opDec": 3.75,
+  "timestamp": "2025-09-29T10:02:35.090142"
+},
+{
+  "race_id": "902398",
+  "horse_id": "3499385",
+  "horse_name": "antiphon",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:35.183607"
+},
+{
+  "race_id": "902398",
+  "horse_id": "1978680",
+  "horse_name": "recon-mission",
+  "fodds": "7/2",
+  "opDec": 4.5,
+  "timestamp": "2025-09-29T10:02:35.281682"
+},
+{
+  "race_id": "902398",
+  "horse_id": "5386054",
+  "horse_name": "barnsnape-boy",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:35.387449"
+},
+{
+  "race_id": "902398",
+  "horse_id": "6260995",
+  "horse_name": "reporter",
+  "fodds": "6/1",
+  "opDec": 7,
+  "timestamp": "2025-09-29T10:02:35.497324"
+},
+{
+  "race_id": "902398",
+  "horse_id": "4303357",
+  "horse_name": "diomed-spirit",
+  "fodds": "10/1",
+  "opDec": 11,
+  "timestamp": "2025-09-29T10:02:35.609269"
+},
+{
+  "race_id": "902398",
+  "horse_id": "3897009",
+  "horse_name": "battle-point",
+  "fodds": "20/1",
+  "opDec": 21,
+  "timestamp": "2025-09-29T10:02:35.735644"
+},
+{
+  "race_id": "902398",
+  "horse_id": "5764770",
+  "horse_name": "off-the-bench",
+  "fodds": "25/1",
+  "opDec": 26,
+  "timestamp": "2025-09-29T10:02:35.817077"
+},
+{
+  "race_id": "902399",
+  "horse_id": "7493129",
+  "horse_name": "arvana-belle",
+  "fodds": "11/10",
+  "opDec": 2.1,
+  "timestamp": "2025-09-29T10:02:36.442576"
+},
+{
+  "race_id": "902399",
+  "horse_id": "7324731",
+  "horse_name": "archibald-ives",
+  "fodds": "4/1",
+  "opDec": 5,
+  "timestamp": "2025-09-29T10:02:36.568322"
+},
+{
+  "race_id": "902399",
+  "horse_id": "7762486",
+  "horse_name": "molly-mac",
+  "fodds": "5/1",
+  "opDec": 6,
+  "timestamp": "2025-09-29T10:02:36.695704"
+},
+{
+  "race_id": "902399",
+  "horse_id": "7834668",
+  "horse_name": "isthatu",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:36.805396"
+},
+{
+  "race_id": "902399",
+  "horse_id": "7020171",
+  "horse_name": "receding",
+  "fodds": "8/1",
+  "opDec": 9,
+  "timestamp": "2025-09-29T10:02:36.910088"
+},
+{
+  "race_id": "902399",
+  "horse_id": "7970711",
+  "horse_name": "pimentel",
+  "fodds": "12/1",
+  "opDec": 13,
+  "timestamp": "2025-09-29T10:02:37.017459"
+}]

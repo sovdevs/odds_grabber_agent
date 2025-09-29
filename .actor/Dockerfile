@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy everything (src, configs, etc.)
 COPY . ./
 
-CMD ["python3", "-m", "src.main"]
+CMD ["python3", "-m", "src"]
